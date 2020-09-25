@@ -1,0 +1,92 @@
+Bad Boys
+Action
+124
+3
+none
+Onward
+Adventure
+102
+4
+none
+Jojo Rabbit
+Comedy
+108
+4
+none
+1917
+Drama
+119
+4
+none
+It
+Horror
+135
+4
+none
+Arrival
+Sci-Fi
+116
+4
+none
+.
+Daredevil
+Action
+none
+4
+none
+Frontier
+Adventure
+none
+4
+none
+Friends
+Comedy
+none
+4
+none
+Game of Thrones
+Drama
+none
+5
+none
+American Horror Story
+Horror
+none
+4
+none
+Westworld
+Sci-Fi
+none
+4
+none
+.
+Resurrection
+none
+53
+4
+3
+Dead Reckoning
+none
+60
+4
+2
+The One with the Thumb
+none
+22
+4
+1
+Winterfell
+none
+54
+4
+8
+Final Girl
+none
+60
+4
+9
+Parce Domine
+none
+69
+4
+3
